@@ -7,6 +7,8 @@ ZCZC W00 100 L05 OS Zoom Class
 ZCZC W00 30 L06 Prepare for OS Quiz from Silbershatz
 ZCZC W01 05 L07 Do OS Quiz
 ZCZC W01 100 L08 OS Zoom Class
-ZCZC W01 120 L09 Do Week01 Assignment (VirtualBox Setup, Etc.)
-ZCZC W02 40 L10 Read Chapter 16 (Security) from Silberschatz book
-ZCZC W02 5 L11 W02 Assignment : Generating a GnuPG Key Pair
+ZCZC W01 100 L09 OS Zoom Class
+ZCZC W01 120 L10 Do Week01 Assignment (VirtualBox Setup, Etc.)
+ZCZC W02 40 L11 Read Chapter 16 (Security) from Silberschatz book
+ZCZC W02 5 L12 W02 Assignment : Generating a GnuPG Key Pair
+ZCZC W02 15 L13 W02 Assignment : Peer Link Review and make myrank.txt
