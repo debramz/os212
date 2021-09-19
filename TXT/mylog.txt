@@ -16,3 +16,4 @@ ZCZC W02 20 L14 W02 Assignment : Import, Sign, and Export OS Public Key
 ZCZC W02 40 L12 Read Chapter 17 (Protection) from Silberschatz book 
 ZCZC W02 273 L13 W02 Assignment : Watch youtube OS-related videos in OS slides
 ZCZC W02 30 L14 W02 Prepare for OS Quiz
+ZCZC W02 20 L15 W02 Bash "myscript.sh", Generate SHA256SUM and SHA256SUM.asc, and submit week 2 assignment
