@@ -6,8 +6,8 @@ This book by silberschatz, is a perfect companion for operating systems course a
 → <b><a href="https://www.youtube.com/watch?v=mXw9ruZaxzQ">Operating System Full Course | Operating System Tutorials for Beginners</a></b><br>
 This video is made exclusively to explain beginners in understanding the operating systems course. It is very useful because it covers up the full operating systems course with great explanation.<br>
 → <b><a href="https://os.vlsm.org/">Operating Systems - Sistem Operasi</a></b><br>
-The os.vlsm.org website for my operating systems course contain weekly slides, instructable lessons, as well as links that can help us as students to understand the operating systems course better. 
+The os.vlsm.org website for my operating systems course contain weekly slides, instructable lessons, as well as links that can help us as students to understand the operating systems course better. <br>
 → <b><a href="https://www.youtube.com/watch?v=rcDO8km6R6c">Cyber Security Introduction (Cyber Security Part 1) | Youtube</a></b><br>
-This video provides a very good explanation about the introductions to cyber security. 
+This video provides a very good explanation about the introductions to cyber security. <br>
 → <b><a href="https://www.youtube.com/watch?v=CivG_2UqKMg">Employee Security Policy (Cyber Security Part 2) | Youtube</a></b><br>
-This video provides a very good explanation about the introductions to cyber security, and delves more deep about the topic after its part one. 
+This video provides a very good explanation about the introductions to cyber security, and delves more deep about the topic after its part one. <br>
