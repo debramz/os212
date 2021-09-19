@@ -7,4 +7,13 @@ ZCZC W00 100 L05 OS Zoom Class
 ZCZC W00 30 L06 Prepare for OS Quiz from Silbershatz
 ZCZC W01 05 L07 Do OS Quiz
 ZCZC W01 100 L08 OS Zoom Class
-ZCZC W01 120 L09 Do Week01 Assignment (VirtualBox Setup, Etc.)
+ZCZC W01 100 L09 OS Zoom Class
+ZCZC W01 120 L10 Do Week01 Assignment (VirtualBox Setup, Etc.)
+ZCZC W02 40 L11 Read Chapter 16 (Security) from Silberschatz book
+ZCZC W02 5 L12 W02 Assignment : Generating a GnuPG Key Pair
+ZCZC W02 15 L13 W02 Assignment : Peer Link Review and make myrank.txt
+ZCZC W02 20 L14 W02 Assignment : Import, Sign, and Export OS Public Key
+ZCZC W02 40 L12 Read Chapter 17 (Protection) from Silberschatz book 
+ZCZC W02 273 L13 W02 Assignment : Watch youtube OS-related videos in OS slides
+ZCZC W02 30 L14 W02 Prepare for OS Quiz
+ZCZC W02 20 L15 W02 Bash "myscript.sh", Generate SHA256SUM and SHA256SUM.asc, and submit week 2 assignment
