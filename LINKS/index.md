@@ -11,3 +11,5 @@ The os.vlsm.org website for my operating systems course contain weekly slides, i
 This video provides a very good explanation about the introductions to cyber security. <br>
 → <b><a href="https://www.youtube.com/watch?v=CivG_2UqKMg">Employee Security Policy (Cyber Security Part 2) | Youtube</a></b><br>
 This video provides a very good explanation about the introductions to cyber security, and delves more deep about the topic after its part one. <br>
+→ <b><a href="https://www.youtube.com/watch?v=KN8YgJnShPM">Files & File Systems: Crash Course Computer Science #20 | Youtube</a></b><br>
+This crash course video is very useful for me in order to gain a better understanding in Files and File Systems in general.<br>
