@@ -17,3 +17,7 @@ ZCZC W02 40 L12 Read Chapter 17 (Protection) from Silberschatz book
 ZCZC W02 273 L13 W02 Assignment : Watch youtube OS-related videos in OS slides
 ZCZC W02 30 L14 W02 Prepare for OS Quiz
 ZCZC W02 20 L15 W02 Bash "myscript.sh", Generate SHA256SUM and SHA256SUM.asc, and submit week 2 assignment
+ZCZC W03 70 L16 W03 Do Week 3 Linux PuTTy-related Assignments
+ZCZC W03 90 L17 W03 Read OSC10 chapter 13 + 14 +15
+ZCZC W03 100 L18 Try Previous MidTerm Problems
+ZCZC W02 5 L19 W03 Assignment : Peer Link Review
