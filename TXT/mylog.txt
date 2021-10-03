@@ -20,4 +20,15 @@ ZCZC W02 20 L15 W02 Bash "myscript.sh", Generate SHA256SUM and SHA256SUM.asc, an
 ZCZC W03 70 L16 W03 Do Week 3 Linux PuTTy-related Assignments
 ZCZC W03 90 L17 W03 Read OSC10 chapter 13 + 14 +15
 ZCZC W03 100 L18 Try Previous MidTerm Problems
-ZCZC W02 5 L19 W03 Assignment : Peer Link Review
+ZCZC W03 5 L19 W03 Assignment : Peer Link Review
+ZCZC W04 200 L20 Attend OS Zoom Synchronous Lecture
+ZCZC W04 30 L21 Prepare for Weekly OS Quiz
+ZCZC W04 30 L22 Read OS Book
+ZCZC W04 60 L23 Watch Youtube videos about Week 4 Material
+ZCZC W04 15 L24 Try W04 Demos
+ZCZC W04 30 L25 Try Previous MidTerm Problems
+ZCZC W04 20 L26 Do Week 4 Assignment (Virtualbox related, Install package list 2 (TLPI) & Fetch and extract WEEK04.tar.bz2.asc)
+ZCZC W04 5 L27 Update Bookmark Links
+ZCZC W04 20 L28 Update log
+ZCZC W04 10 L29 Peer link review
+ZCZC W04 30 L30 Prepare for OS Weekly Quiz
