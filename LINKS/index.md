@@ -13,3 +13,5 @@ This video provides a very good explanation about the introductions to cyber sec
 This video provides a very good explanation about the introductions to cyber security, and delves more deep about the topic after its part one. <br>
 → <b><a href="https://www.youtube.com/watch?v=KN8YgJnShPM">Files & File Systems: Crash Course Computer Science #20 | Youtube</a></b><br>
 This crash course video is very useful for me in order to gain a better understanding in Files and File Systems in general.<br>
+→ <b><a href="https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/Week04">OS Week 04 Demos</a></b><br>
+I studied mainly from this link for this week (Week 04)<br>
