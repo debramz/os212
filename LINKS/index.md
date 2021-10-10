@@ -13,9 +13,14 @@ This video provides a very good explanation about the introductions to cyber sec
 This video provides a very good explanation about the introductions to cyber security, and delves more deep about the topic after its part one. <br>
 → <b><a href="https://www.youtube.com/watch?v=KN8YgJnShPM">Files & File Systems: Crash Course Computer Science #20 | Youtube</a></b><br>
 This crash course video is very useful for me in order to gain a better understanding in Files and File Systems in general.<br>
+<<<<<<< HEAD
 → <b><a href="https://www.youtube.com/watch?v=KtTjamPKMhw">LCL 04 - the vi text editor - basic intro - Linux Command Line tutorial for forensics | Youtube</a></b><br>
 This video is very useful for me as a beginner in Linux to know the essential commands in vi text editor.<br>
 → <b><a href="https://www.youtube.com/watch?v=wxCxB2aNouA">[C/C++] Basic Introduction to Pointers and Memory - What is a pointer? | Youtube</a></b><br>
 This video is very useful for me to know more about pointers and memory in C.<br>
 
 
+=======
+→ <b><a href="https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/Week04">OS Week 04 Demos</a></b><br>
+I studied mainly from this link for this week (Week 04)<br>
+>>>>>>> 62f79aaa2678a87071e7a6d16fd45f783bdf5d28
