@@ -32,3 +32,14 @@ ZCZC W04 5 L27 Update Bookmark Links
 ZCZC W04 20 L28 Update log
 ZCZC W04 10 L29 Peer link review
 ZCZC W04 30 L30 Prepare for OS Weekly Quiz
+ZCZC W05 200 L31 Attend OS Zoom Synchronous Lecture
+ZCZC W05 30 L32 Prepare for Weekly OS Quiz
+ZCZC W05 20 L33 Get help from friend regarding W05 Assignment
+ZCZC W05 10 L34 Read W05 Demos
+ZCZC W05 20 L35 Try Previous MidTerm Problems
+ZCZC W05 20 L36 Read OS Chapter 10
+ZCZC W05 30 L37 Do OS Assignment (Rearrange memory2)
+ZCZC W05 10 L38 Update mylog.txt
+ZCZC W05 10 L39 Update myrank.txt
+ZCZC W05 10 L40 Update os212 links
+ZCZC W05 10 L41 Submit OS W05 Assignment
