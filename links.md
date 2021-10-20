@@ -1,3 +1,7 @@
+---
+permalink: /LINKS/
+---
+
 <h1>LINKS</h1><br>
 → <b><a href="https://youtu.be/V1y-mbWM3B8">Linux Tutorial for Beginners: Introduction to Linux Operating System</a></b><br>
 Since we are going to learn about linux in operating systems course, i figured that learning linux from videos might be mandatory, and this video is a great place to start off.<br>
