@@ -22,3 +22,6 @@ This crash course video is very useful for me in order to gain a better understa
 This video is very useful for me as a beginner in Linux to know the essential commands in vi text editor.<br>
 → <b><a href="https://www.youtube.com/watch?v=wxCxB2aNouA">[C/C++] Basic Introduction to Pointers and Memory - What is a pointer? | Youtube</a></b><br>
 This video is very useful for me to know more about pointers and memory in C.<br>
+→ <b><a href="https://www.youtube.com/watch?v=SMeDw2GDMsE">C Programming in Linux Tutorial #036 - Shared Memory</a></b><br>
+This video is very useful for me to know more about shared memory in C programming on Linux.<br>
+

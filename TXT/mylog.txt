@@ -43,3 +43,13 @@ ZCZC W05 10 L38 Update mylog.txt
 ZCZC W05 10 L39 Update myrank.txt
 ZCZC W05 10 L40 Update os212 links
 ZCZC W05 10 L41 Submit OS W05 Assignment
+ZCZC W06 20 L42 Do virtualbox-related OS assignment
+ZCZC W06 30 L43 Read about fork in c from GSGS
+ZCZC W06 10 L44 Read Week06 Demos
+ZCZC W06 30 L45 Read Chapter 3 and 4 of OSC book
+ZCZC W06 10 L46 Scele-related (read, and reply forums and such)
+ZCZC W06 30 L47 Watch video about fork and shared memory
+ZCZC W06 10 L48 Review peer links and update myrank.txt
+ZCZC W06 5 L49 Update mylog.txt
+ZCZC W06 10 L50 Update os212 links
+
