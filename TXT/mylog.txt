@@ -52,4 +52,14 @@ ZCZC W06 30 L47 Watch video about fork and shared memory
 ZCZC W06 10 L48 Review peer links and update myrank.txt
 ZCZC W06 5 L49 Update mylog.txt
 ZCZC W06 10 L50 Update os212 links
+ZCZC W07 200 L51 Attend OS Zoom Synchronous lectures
+ZCZC W07 30 L52 Prepare for Weekly OS Quiz
+ZCZC W07 10 L53 Get help from friend regarding W07 assignment
+ZCZC W07 30 L54 Read W07 Demos
+ZCZC W07 30 L55 Do virtualbox-related OS assignment
+ZCZC W07 10 L56 Update mylog.txt
+ZCZC W07 10 L57 Reply to OS Forum
+ZCZC W07 10 L58 Update myrank.txt
+ZCZC W07 10 L59 Update os212 links
+ZCZC W07 5 L60 Submit W07 assignment
 
