@@ -24,4 +24,9 @@ This video is very useful for me as a beginner in Linux to know the essential co
 This video is very useful for me to know more about pointers and memory in C.<br>
 → <b><a href="https://www.youtube.com/watch?v=SMeDw2GDMsE">C Programming in Linux Tutorial #036 - Shared Memory</a></b><br>
 This video is very useful for me to know more about shared memory in C programming on Linux.<br>
+→ <b><a href="https://www.youtube.com/watch?v=nlHIuG3RQ0g">Thread synchronization with mutexes in C</a></b><br>
+This video is very useful for me to know more about thread synchronization.<br>/
+→ <b><a href="https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch5.pptx">OSC 5 Book</a></b><br>
+This video is very useful for me to know more about CPU Scheduling.<br>
+
 
