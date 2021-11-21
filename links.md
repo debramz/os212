@@ -28,5 +28,8 @@ This video is very useful for me to know more about shared memory in C programmi
 This video is very useful for me to know more about thread synchronization.<br>/
 → <b><a href="https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch5.pptx">OSC 5 Book</a></b><br>
 This video is very useful for me to know more about CPU Scheduling.<br>
+→ <b><a href="https://www.youtube.com/watch?v=J752kh-VYkU&list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL&index=6">LFS 10.1 Chapter 6 - Cross Compiling Temporary Tools
+</a></b><br>
+This video is very useful for me to do assignment especially chapter 6 for LFS.<br>
 
 

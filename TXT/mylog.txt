@@ -67,4 +67,7 @@ ZCZC W08 30 L62 Prepare for Weekly OS Quiz
 ZCZC W08 30 L63 Get help from friend regarding W08 Assignment
 ZCZC W08 120 L64 Attempt to do OS Assignment
 ZCZC W08 60 L65 Read this week's OS Chapter from textbook
+ZCZC W09 200 L66 Attend OS Zoom Synchronous lectures
+ZCZC W09 180 L67 Do OS Week 09 Assignment
+ZCZC W09 60 L68 GSGS About LFS Chapter 6 and 7
 
