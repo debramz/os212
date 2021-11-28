@@ -70,4 +70,7 @@ ZCZC W08 60 L65 Read this week's OS Chapter from textbook
 ZCZC W09 200 L66 Attend OS Zoom Synchronous lectures
 ZCZC W09 180 L67 Do OS Week 09 Assignment
 ZCZC W09 60 L68 GSGS About LFS Chapter 6 and 7
-
+ZCZC W10 200 L69 Attend OS Zoom Synchronous lectures
+ZCZC W10 30 L70 Prepare for Weekly OS Quiz
+ZCZC W10 120 L71 Do OS Assignment
+ZCZC W10 60 L72 Read this week's OS Chapter from textbook
